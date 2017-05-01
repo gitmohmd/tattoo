@@ -104,6 +104,7 @@ section {
    height: auto;
 
 }
+/*<--------------- section div ------------------>*/
 section div {
    width: 80%;
    height: auto;
@@ -111,7 +112,7 @@ section div {
    color: #edd6d5;
    margin:  60px auto;
 }
-
+ 
 section div a {
    text-decoration: none;
    display: block;
